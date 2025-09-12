@@ -15,7 +15,6 @@
 #define Mac         2
 #define MacFN       3
 #define SYS         4
-#define Game        5
 
 / {
     behaviors {
